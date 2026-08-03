@@ -1,4 +1,4 @@
-package div_3;
+package code_forces;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package codeforce_div4;
+package code_forces;
 
 import java.util.Scanner;
 

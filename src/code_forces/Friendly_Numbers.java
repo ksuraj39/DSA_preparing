@@ -1,4 +1,4 @@
-package CodeForce_Div_2;
+package code_forces;
 
 import java.util.*;
 
