@@ -17,6 +17,7 @@ public class Sum_of_Values_at_Indices_With_K_Set_Bits {
         System.out.println(sumIndicesWithKSetBits(ll,k));
 
     }
+    // Solution Time Complexity -- O(nlog(n)) , space -- O(1)
     public static int sumIndicesWithKSetBits(List<Integer> nums, int k) {
         int n = nums.size();
         int sum = 0;
