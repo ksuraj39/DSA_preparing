@@ -1,7 +1,7 @@
 package LinkedList_ch;
 
 public class LinkedList {
-    class Node{
+    private class Node{
         int val;
         Node next;   // default null
         public  Node(int val) {
