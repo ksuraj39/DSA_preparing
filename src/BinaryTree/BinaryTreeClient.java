@@ -5,6 +5,7 @@ public class BinaryTreeClient {
         BinaryTree root = new BinaryTree();
         root.DisPlay();
 
+
     }
 
 }
